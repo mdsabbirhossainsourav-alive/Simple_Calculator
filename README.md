@@ -7,7 +7,9 @@ Only one line containing two separated numbers X, Y (1  ≤  X, Y  ≤
 Print 3 lines that contain the following in the same order:
 
 "X + Y = summation result" without quotes.
+
 "X * Y = multiplication result" without quotes.
+
 "X - Y = subtraction result" without quotes.
 Example
 ## Input
